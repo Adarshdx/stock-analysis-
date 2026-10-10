@@ -8,3 +8,5 @@ plotly==5.15.0
 statsmodels==0.14.0
 ta==0.10.2
 jupyter==1.0.0
+.
+.
